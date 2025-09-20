@@ -1,0 +1,53 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: rgb(46, 230, 46);
+    font-style: italic;
+}
+
+.line{
+    text-decoration: line-through;
+}
+
+.bold{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+ul{
+    color: rgb(151, 39, 39);
+    letter-spacing: 5px;
+}
+
+.underline{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+
+.main{
+    color: rgb(151, 39, 39);
+}
+
+.yellow{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#p1{
+    font-size: larger;
+}
+
+#p2{
+    font-size: xx-small;
+}
+
+#p3{
+    font-style: italic;
+}
+
+a{
+    background-color: yellow;
+    color: red;
+}
